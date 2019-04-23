@@ -1,0 +1,17 @@
+C:\Users\I7\Documents\Visual Studio 2017\Projects\CodeFirstDb\CodeFirstDb\bin\Debug\CodeFirstDb.exe.config
+C:\Users\I7\Documents\Visual Studio 2017\Projects\CodeFirstDb\CodeFirstDb\bin\Debug\CodeFirstDb.exe
+C:\Users\I7\Documents\Visual Studio 2017\Projects\CodeFirstDb\CodeFirstDb\bin\Debug\CodeFirstDb.pdb
+C:\Users\I7\Documents\Visual Studio 2017\Projects\CodeFirstDb\CodeFirstDb\bin\Debug\EntityFramework.dll
+C:\Users\I7\Documents\Visual Studio 2017\Projects\CodeFirstDb\CodeFirstDb\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\I7\Documents\Visual Studio 2017\Projects\CodeFirstDb\CodeFirstDb\bin\Debug\EntityFramework.xml
+C:\Users\I7\Documents\Visual Studio 2017\Projects\CodeFirstDb\CodeFirstDb\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\I7\Documents\Visual Studio 2017\Projects\CodeFirstDb\CodeFirstDb\obj\Debug\CodeFirstDb.csprojAssemblyReference.cache
+C:\Users\I7\Documents\Visual Studio 2017\Projects\CodeFirstDb\CodeFirstDb\obj\Debug\CodeFirstDb.csproj.CoreCompileInputs.cache
+C:\Users\I7\Documents\Visual Studio 2017\Projects\CodeFirstDb\CodeFirstDb\obj\Debug\CodeFirstDb.csproj.CopyComplete
+C:\Users\I7\Documents\Visual Studio 2017\Projects\CodeFirstDb\CodeFirstDb\obj\Debug\CodeFirstDb.exe
+C:\Users\I7\Documents\Visual Studio 2017\Projects\CodeFirstDb\CodeFirstDb\obj\Debug\CodeFirstDb.pdb
+C:\Users\I7\Documents\Visual Studio 2017\Projects\CodeFirstDb\CodeFirstDb\obj\Debug\CodeFirstDb.Migrations.InitialCreate.resources
+C:\Users\I7\Documents\Visual Studio 2017\Projects\CodeFirstDb\CodeFirstDb\obj\Debug\CodeFirstDb.csproj.GenerateResource.cache
+C:\Users\I7\Documents\Visual Studio 2017\Projects\CodeFirstDb\CodeFirstDb\obj\Debug\CodeFirstDb.Migrations.AddUrl.resources
+C:\Users\I7\Documents\Visual Studio 2017\Projects\CodeFirstDb\CodeFirstDb\obj\Debug\CodeFirstDb.Migrations.addedUserClass.resources
+C:\Users\I7\Documents\Visual Studio 2017\Projects\CodeFirstDb\CodeFirstDb\obj\Debug\CodeFirstDb.Migrations.changedDisplayName.resources
